@@ -1,0 +1,22 @@
+.row{
+    background-color: #e1bee7;
+    padding: 20px;
+}
+div{
+    background: #e1bee7
+}
+h1, h3{
+    display: inline
+}
+button{
+    color: #e924d8;
+    margin-left: 3em;
+}
+.circulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1 {
+    color: purple;
+  }

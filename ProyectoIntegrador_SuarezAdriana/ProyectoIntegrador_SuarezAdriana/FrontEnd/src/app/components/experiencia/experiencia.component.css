@@ -1,0 +1,19 @@
+.row{
+    padding: 30px;
+}
+div{
+    background: #e1bee7
+}
+h1, h3{
+    display: inline
+}
+button{
+    color: #e924d8;
+    margin-left: 1em;
+}
+h1 {
+    color: purple;
+}
+h2, h5{ 
+    color: #c423b6;
+}
